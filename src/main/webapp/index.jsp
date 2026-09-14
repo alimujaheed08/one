@@ -754,15 +754,15 @@
 <header>
   <div class="container header-main">
     <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-      <i class="fas fa-bars"></i>
+      <em class="fas fa-bars"></i>
     </button>
     <a class="brand" href="#">
-      <i class="fas fa-store"></i>
+      <em class="fas fa-store"></i>
       <span>Nexus<span class="accent">Cart</span></span>
     </a>
 
     <div class="header-nav" id="mainNav">
-      <a href="#" class="active"><i class="fas fa-home"></i> Home</a>
+      <a href="#" class="active"><em class="fas fa-home"></i> Home</a>
       <a href="#categories">Categories</a>
       <a href="#products">New Arrivals</a>
       <a href="#deals">Deals</a>
